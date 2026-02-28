@@ -57,7 +57,7 @@
     <div class="container">
         <h1>🚀 Welcome to Jenkins CI/CD Deployment</h1>
         <p>This mini project is deployed on <b>Apache Tomcat</b> for the <i>Weekend 10am batchproject</i>.</p>
-        <p><a href="hello">Say Hello to Shruthi ✉️</a></p>
+        <p><a href="hello">Say Hello to Atharva Chindi✉️</a></p>
     </div>
 </body>
 </html>
